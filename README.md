@@ -1,0 +1,3 @@
+LEARNING FRONTEND DEV using freeCodeCamp resources.
+
+This movie website makes api request from the movie app...
